@@ -1,0 +1,20 @@
+.currencyInput {
+  display: inline-block;
+  padding: 15px;
+
+  input[type=text] {
+    border: none;
+  }
+  select {
+    border: none;
+    outline: none;
+  }
+
+  border: none;
+  border: 1px solid rgb(41, 211, 183);
+  border-radius: 15px;
+  box-shadow: 1px 2px 7px 0px #29d3b7;
+
+  
+}
+
